@@ -5,12 +5,8 @@
     font-size: 40px;
 }
 .bor {
-border: 3px solid rgb(234, 212, 212);
 height: auto;
-margin-left: 20%;
-width:fit-content ;
-height: auto;
-
+margin: auto;
 }
 .btn {
 background-color: rosybrown;
@@ -20,4 +16,5 @@ padding-left:2px;
 padding-top: 2px;
 font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 font-size: 20px;
+align-self: center;
 }
