@@ -1,0 +1,24 @@
+
+#titolo {
+    color: rosybrown;
+    margin-left: 50%;
+    font-size: 40px;
+    text-decoration: solid;
+}
+.bor {
+border: 3px solid rgb(234, 212, 212);
+height: auto;
+margin-left: 20%;
+width:fit-content ;
+height: fit-content;
+
+}
+.btn {
+background-color: rosybrown;
+color: whitesmoke;
+text-decoration:none;
+padding-left:2px;
+padding-top: 2px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 20px;
+}
